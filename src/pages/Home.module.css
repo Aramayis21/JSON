@@ -1,0 +1,16 @@
+.home{
+    display: flex;
+    gap: 30px;
+    justify-content: center;
+    padding-top: 200px;
+    background-image: url(https://www.opc-router.de/wp-content/uploads/2020/08/what-is-json_600x250px.jpg);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center;
+}
+
+.home button {
+    margin-top: 70px;
+    background-color: white;
+    border-radius: 5px;
+}
